@@ -27,7 +27,7 @@ The website is fully responsive and optimized for a seamless experience across d
 - **Vite**
 - **JavaScript**
 - **HTML5**
-- **CSS3**
+- **TAILWIND CSS**
 - **GitHub Pages** for deployment
 
 ---
