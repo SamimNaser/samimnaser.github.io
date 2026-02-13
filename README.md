@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio website — a curated space where I showcase my projects, skills, and journey as a developer.
 
-🔗 **Live Website:** https://your-username.github.io/your-repo-name/  
-📁 **Repository:** https://github.com/your-username/your-repo-name  
-
 ---
 
 ## 🚀 About The Portfolio
